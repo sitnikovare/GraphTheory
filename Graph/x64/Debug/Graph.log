@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\illus\Documents\CSIT\SSU_CSIT-3\GraphTheory\Graph\2021_311_SitnikovaRuslana_task4_13\Graph\Graph.h(609,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\illus\Documents\CSIT\SSU_CSIT-3\GraphTheory\Graph\2021_311_SitnikovaRuslana_task4_13\Graph\task.h(179,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Graph.vcxproj -> C:\Users\illus\Documents\CSIT\SSU_CSIT-3\GraphTheory\Graph\2021_311_SitnikovaRuslana_task4_13\x64\Debug\Graph.exe
